@@ -32,7 +32,7 @@ Also, to make it self-contained, all imports of not built-in modules needed for 
 
 Below is a list of command the output files were obtained with.
 
-output_1.txt:
+output_1.txt:   
 python alchemical_analysis.py
 (Analysis with default settings)
 
