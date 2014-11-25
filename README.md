@@ -36,10 +36,10 @@ output_1.txt:
 python alchemical_analysis.py
 (Analysis with default settings)
 
-output_2.txt
+output_2.txt:   
 python alchemical_analysis.py -m ti_cubic -u kJ -r 8
 (The free energies are to be estimated with TI-CUBIC and reported in kJ/mol, with 8 decimal places)
 
-output_3.txt
+output_3.txt:   
 python alchemical_analysis.py -s 50
 (Skip first 50 ps)
