@@ -17,8 +17,7 @@ Here is a brief overview what these flags are.
 -u is the units the free energy are to be reported in
 -r is the number of decimal places the free energies are to be reported with
 -m is the methods the free energies are to be estimated with. If you want just TI-CUBIC, use -m ti_cubic
--g will produce graphs, like those in the attachment: the TI as a filled area under the interpolation curve and the bar plot of ∆G's evaluated for each pair of adjacent states
-This requires matplotlib.
+-g will produce graphs, like those in the attachment: the TI as a filled area under the interpolation curve and the bar plot of ∆G's evaluated for each pair of adjacent states. This requires matplotlib.
 -s is to be used whenever you want to discard some initial snapshots
 
 The file parser (parser_sire.py) is separated from the analysis proper (alchemical_analysis.py); make sure the former is either handy or a pythonpath is established for it.
