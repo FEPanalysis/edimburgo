@@ -33,10 +33,10 @@ Also, to make it self-contained, all imports of not built-in modules needed for 
 Below is a list of command the output files were obtained with.
 
 python alchemical_analysis.py > output_1.txt
-# Analysis with default settings.
+(Analysis with default settings)
 
 python alchemical_analysis.py -m ti_cubic -u kJ -r 8 > output_2.txt
-# The free energies are to be estimated with TI-CUBIC and reported in kJ/mol, with 8 decimal places. 
+(The free energies are to be estimated with TI-CUBIC and reported in kJ/mol, with 8 decimal places)
 
 python alchemical_analysis.py -s 50 > output_3.txt
-# Skip first 50 ps.
+(Skip first 50 ps)
