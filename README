@@ -1,5 +1,0 @@
-python alchemical_analysis.py > output_1.txt
-
-python alchemical_analysis.py -m ti_cubic -u kJ -r 8 > output_2.txt # Estimate the free energies with TI-CUBIC. Report the energies in kJ/mol, with 8 decimal places. 
-
-python alchemical_analysis.py -s 50 > output_3.txt # Skip first 50 ps.
