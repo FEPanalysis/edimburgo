@@ -30,7 +30,7 @@ Also, to make it self-contained, all imports of not built-in modules needed for 
 
 (If you do not have python installed) Install one of its scientific distributions, like Enthought Canopy or Anaconda, and you will get it with a bunch of libraries (among which are numpy and matplotlib) rather than a stand-alone python.
 
-Below is a list of command the output files were obtained with.
+Below is a list of the command the output files were obtained with.
 
 output_1.txt:   
 python alchemical_analysis.py
