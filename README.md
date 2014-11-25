@@ -11,8 +11,11 @@ Here is a brief overview what these flags are.
 'python alchemical_analysis.py -h' would yield a more detailed description).
 
 -a is the name of the software the files come from; set to 'Sire'
+
 -p is the data file prefix; set to 'actual_grad_'
+
 -q is the data file suffix; set to 'dat'
+
 -d is the path to where the data files are; set to '.'
 -u is the units the free energy are to be reported in
 -r is the number of decimal places the free energies are to be reported with
